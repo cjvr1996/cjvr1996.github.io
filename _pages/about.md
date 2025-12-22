@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am **Cristian Jesús Vaca Rubio**, an AI for Wireless Communications researcher currently working at the **Centre Tecnològic de Telecomunicacions de Catalunya (CTTC)** in Barcelona.
+I am **Cristian Jesús Vaca Rubio**, a researcher in AI for Wireless Communications currently working at the **Centre Tecnològic de Telecomunicacions de Catalunya (CTTC)** in Barcelona. I am also an Adjunct Professor at **Isabel I University**, where I teach in the **MSc in Big Data and BSc in Computer Science programs**.
 
 My work lies at the intersection of **Artificial Intelligence, Signal Processing, and Wireless Communications**, with the goal of making future communication systems more intelligent, adaptive, and efficient. I am particularly interested in how machine learning can be embedded into the core of next-generation networks as a fundamental design principle.
 

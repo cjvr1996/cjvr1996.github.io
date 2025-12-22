@@ -1,7 +1,7 @@
 ---
 title: "On the Performance of Near-Field MIMO in Disaggregated Architectures"
 collection: publications
-category: journals_submitted
+category: conferences_submitted
 permalink: /publication/placeholder-journal-submitted
 date: 2025-01-15
 venue: 'Submitted to IEEE Transactions on Wireless Communications'

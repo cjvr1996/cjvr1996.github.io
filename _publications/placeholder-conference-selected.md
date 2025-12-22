@@ -1,7 +1,7 @@
 ---
 title: "Beam Management for 6G Satellite-Ground Integration"
 collection: publications
-category: conferences_selected
+category: conferences_published
 permalink: /publication/placeholder-conference-selected
 date: 2024-05-20
 venue: 'IEEE ICC 2024'

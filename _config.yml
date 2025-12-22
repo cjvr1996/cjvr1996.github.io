@@ -234,6 +234,20 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# Publication Categories
+# These keys are used in the 'category' field of publication markdown files
+publication_category:
+  journals_published:
+    title: "Journal Papers (published)"
+  journals_submitted:
+    title: "Journal Papers (submitted and web-posted material)"
+  book_chapters:
+    title: "Book Chapters"
+  conferences_selected:
+    title: "Conference Papers (selected)"
+  conferences_submitted:
+    title: "Conference Papers (submitted)"
+
 
 # These settings control how pages and collections are included in the site
 defaults:

@@ -5,32 +5,49 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% if site.author.googlescholar %}
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar
+    profile</a>.</div>
 {% endif %}
 
+<br />
 
+<!-- Advanced category-based rendering -->
+{% if site.publication_category %}
+{% for category in site.publication_category %}
+{% assign category_id = category[0] %}
+{% assign category_title = category[1].title %}
 
+{% assign filtered_posts = site.publications | where: "category", category_id | sort: "date" | reverse %}
+
+{% if filtered_posts.size > 0 %}
+<h2 id="{{ category_id }}">{{ category_title }} – {{ filtered_posts.size }}</h2>
+<hr />
+<ol>
+  {% for post in filtered_posts %}
+  <li>
+    {{ post.citation }}
+    {% if post.paperurl or post.slidesurl or post.bibtexurl %}
+    <br />
+    {% if post.paperurl %}<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>
+      Paper</a>{% endif %}
+    {% if post.slidesurl %}&nbsp;&nbsp;<a href="{{ post.slidesurl }}"><i class="fas fa-fw fa-file-powerpoint"
+        aria-hidden="true"></i> Slides</a>{% endif %}
+    {% if post.bibtexurl %}&nbsp;&nbsp;<a href="{{ post.bibtexurl }}"><i class="fas fa-fw fa-quote-right"
+        aria-hidden="true"></i> Bibtex</a>{% endif %}
+    {% endif %}
+    <br /><br />
+  </li>
+  {% endfor %}
+</ol>
+{% endif %}
+{% endfor %}
+
+{% else %}
+<!-- Fallback to simple chronological list -->
+{% for post in site.publications reversed %}
+{% include archive-single.html %}
+{% endfor %}
+{% endif %}

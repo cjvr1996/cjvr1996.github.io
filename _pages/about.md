@@ -29,7 +29,7 @@ My research revolves around **AI-native communication systems**, spanning both t
 *   **AI and Machine Learning for Wireless Networks**  
     Learning-based resource allocation, beam management, sensing, and decision-making under uncertainty.
 
-*   **Signal Processing for Communications and Sensing**  
+*   **AI for Signal Processing in Communications and Sensing**  
     Model-based and learning-based approaches with a focus on interpretability and robustness.
 
 *   **AI for Satellite Communications**  
@@ -42,7 +42,7 @@ My research revolves around **AI-native communication systems**, spanning both t
     AI/ML for RAN intelligence, xApps and rApps, disaggregated architectures, and data-driven network control.
 
 *   **Massive MIMO and Millimeter Wave Systems**  
-    Beamforming, tracking, and sensing under realistic hardware and propagation constraints.
+    Beamforming, tracking, and sensing for massive MIMO systems.
 
 *   **Applied Statistics and Data-Driven Networking**  
     Practical statistical modeling for performance analysis, optimization, and video streaming applications.

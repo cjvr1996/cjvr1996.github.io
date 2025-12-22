@@ -140,9 +140,9 @@
 
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: 0.95rem; // Custom size to fit precisely
+  font-size: 0.8rem; // Reduced to fit narrow sidebar (approx 150px)
   white-space: nowrap;
-  letter-spacing: -0.02em; // Squeeze slightly
+  letter-spacing: -0.01em;
 }
 
 .sidebar .author__desktop {

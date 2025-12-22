@@ -140,7 +140,8 @@
 
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-6; // Slightly smaller to fit on one line
+  white-space: nowrap; // Ensure it stays on one line
 }
 
 .sidebar .author__desktop {

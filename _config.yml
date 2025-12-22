@@ -41,8 +41,8 @@ author:
   orcid            : "https://orcid.org/0000-0002-9713-2784"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Cristian-Jesus-Vaca-Rubio?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 

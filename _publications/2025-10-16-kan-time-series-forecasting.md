@@ -1,7 +1,7 @@
 ---
 title: "A Primer on Kolmogorov-Arnold Networks (KANs) for Probabilistic Time Series Forecasting"
 collection: publications
-category: conferences_submitted
+category: journals_submitted
 permalink: /publication/2025-kan-time-series-forecasting
 date: 2025-10-16
 venue: 'Submitted to IEEE Signal Processing Letters'

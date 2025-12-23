@@ -230,6 +230,8 @@ collections:
 publication_category:
   journals_published:
     title: "Journal Papers (published)"
+  journals_submitted:
+    title: "Journal Papers (submitted)"
   conferences_published:
     title: "Conference Papers (published)"
   conferences_submitted:

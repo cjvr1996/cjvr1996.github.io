@@ -20,7 +20,7 @@ author_profile: true
 {% assign category_id = category[0] %}
 {% assign category_title = category[1].title %}
 
-{% assign filtered_posts = site.publications | where: "category", category_id | sort: "date" | reverse %}
+{% assign filtered_posts = site.publications | where: "category", category_id | sort: "date" %}
 
 {% if filtered_posts.size > 0 %}
 <h2 id="{{ category_id }}">{{ category_title }} – {{ filtered_posts.size }}</h2>

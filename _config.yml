@@ -228,6 +228,8 @@ collections:
 # Publication Categories
 # These keys are used in the 'category' field of publication markdown files
 publication_category:
+patents_published:
+    title: "Patents (granted)"
   journals_published:
     title: "Journal Papers (published)"
   journals_submitted:

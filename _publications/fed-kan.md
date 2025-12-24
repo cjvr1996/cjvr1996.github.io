@@ -3,7 +3,7 @@ title: "Fed-KAN: Federated Learning with Kolmogorov-Arnold Networks for Traffic 
 collection: publications
 category: journals_submitted
 permalink: /publication/2025-fed-kan-traffic-prediction
-date: 2025-02-28
+date: 2025-06-07
 venue: 'Submitted to IEEE Vehicular Technology Magazine'
 paperurl: 'https://arxiv.org/abs/2503.00154'
 citation: 'E. Zeydan, <b>C. J. Vaca-Rubio</b>, L. Blanco, R. Pereira, M. Caus, and K. Dev, “Fed-KAN: Federated Learning with Kolmogorov-Arnold Networks for Traffic Prediction,” submitted to <i>IEEE Vehicular Technology Magazine</i>, Mar. 2025. [Online]. Available: arXiv:2503.00154.'

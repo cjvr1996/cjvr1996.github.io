@@ -14,10 +14,21 @@ author_profile: true
   {% for project in site.data.projects.current_projects %}
   <li>
     <strong>{{ project.acronym }}</strong> ({{ project.program }}), {{ project.period }}.<br />
-    Role: {{ project.role }}.
+
+    Role:
+    {% if project.role contains "IP" %}
+    <strong>{{ project.role }}</strong>
+    {% else %}
+    {{ project.role }}
+    {% endif %}
+    {% if project.budget_cttc %}
+    . Budget to CTTC: {{ project.budget_cttc }}
+    {% endif %}
+    .
   </li>
   {% endfor %}
 </ul>
+
 
 <h2>Previous Projects</h2>
 

@@ -1,0 +1,21 @@
+bsc:
+  - title: "Title of the BSc Thesis"
+    student: "Student Name"
+    year: 2024
+    institution: "University of Málaga"
+
+  - title: "Another BSc Thesis"
+    student: "Another Student"
+    year: 2023
+    institution: "UPC"
+
+msc:
+  - title: "Title of the MSc Thesis"
+    student: "Student Name"
+    year: 2025
+    institution: "Aalborg University"
+
+  - title: "Another MSc Thesis"
+    student: "Another Student"
+    year: 2024
+    institution: "CTTC / UPC"

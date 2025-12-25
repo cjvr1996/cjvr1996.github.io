@@ -7,6 +7,30 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Teaching</h2>
+
 {% for post in site.teaching reversed %}
 {% include archive-single.html %}
 {% endfor %}
+
+<hr />
+
+<h2>Bachelor's Thesis Supervision</h2>
+<ul>
+  {% for thesis in site.data.theses.bsc %}
+  <li>
+    <strong>{{ thesis.title }}</strong><br />
+    {{ thesis.student }}, {{ thesis.institution }} ({{ thesis.year }})
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Master's Thesis Supervision</h2>
+<ul>
+  {% for thesis in site.data.theses.msc %}
+  <li>
+    <strong>{{ thesis.title }}</strong><br />
+    {{ thesis.student }}, {{ thesis.institution }} ({{ thesis.year }})
+  </li>
+  {% endfor %}
+</ul>

@@ -16,21 +16,23 @@ author_profile: true
 <hr />
 
 <h2>Bachelor's Thesis Supervision</h2>
+
 <ul>
   {% for thesis in site.data.theses.bsc %}
   <li>
-    <strong>{{ thesis.title }}</strong><br />
-    {{ thesis.student }}, {{ thesis.institution }} ({{ thesis.year }})
+    <strong>{{ thesis.student }}</strong>, <em>{{ thesis.title }}</em>.
+    Bachelor’s Thesis, {{ thesis.institution }}, {{ thesis.degree }}, {{ thesis.year }}.
   </li>
   {% endfor %}
 </ul>
 
 <h2>Master's Thesis Supervision</h2>
+
 <ul>
   {% for thesis in site.data.theses.msc %}
   <li>
-    <strong>{{ thesis.title }}</strong><br />
-    {{ thesis.student }}, {{ thesis.institution }} ({{ thesis.year }})
+    <strong>{{ thesis.student }}</strong>, <em>{{ thesis.title }}</em>.
+    Master’s Thesis, {{ thesis.institution }}, {{ thesis.degree }}, {{ thesis.year }}.
   </li>
   {% endfor %}
 </ul>

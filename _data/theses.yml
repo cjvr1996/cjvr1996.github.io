@@ -1,21 +1,31 @@
 bsc:
-  - title: "Title of the BSc Thesis"
-    student: "Student Name"
-    year: 2024
-    institution: "University of Málaga"
+  - title: "SmartShopper: Intelligent Platform for Supermarket Price Query and Analysis"
+    student: "David Fernández Rodríguez"
+    year: 2025
+    institution: "Isabel I University"
+    degree: "BSc in Computer Engineering"
 
-  - title: "Another BSc Thesis"
-    student: "Another Student"
-    year: 2023
-    institution: "UPC"
+  - title: "DrivU: Delegated Driving of Private Vehicles"
+    student: "David Gonzalo García"
+    year: 2025
+    institution: "Isabel I University"
+    degree: "BSc in Computer Engineering"
+
+  - title: "OfiWeb: Web Application for Document Management with JWT Authentication"
+    student: "José Manuel Suárez Leiguarda"
+    year: 2025
+    institution: "Isabel I University"
+    degree: "BSc in Computer Engineering"
 
 msc:
-  - title: "Title of the MSc Thesis"
-    student: "Student Name"
+  - title: "Comparison of Open-Source Malware Environments"
+    student: "Edgar Mauricio Andrade Bazán"
     year: 2025
-    institution: "Aalborg University"
+    institution: "Isabel I University"
+    degree: "MSc in Cybersecurity"
 
-  - title: "Another MSc Thesis"
-    student: "Another Student"
-    year: 2024
-    institution: "CTTC / UPC"
+  - title: "Real-Time Threat Detection through Artificial Intelligence"
+    student: "Jonathan Carrero Aranda"
+    year: 2025
+    institution: "Isabel I University"
+    degree: "MSc in Cybersecurity"

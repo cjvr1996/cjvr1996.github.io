@@ -23,3 +23,33 @@ industrial_projects:
     period: "12/2023 – 12/2024"
     role: "Researcher (non-IP)"
     budget_cttc: "€178,006.20"
+
+current_projects:
+  - program: "European Space Agency (ESA) contract"
+    acronym: "AI-GOVSATCOM"
+    period: "01/2025 – present"
+    role: "Researcher (IP)"
+    budget_cttc: "€440,000"
+
+  - program: "Horizon Europe – SNS-JU"
+    acronym: "UNITY-6G"
+    period: "01/2025 – present"
+    role: "Researcher (non-IP)"
+  
+  - company: "Indra"
+    acronym: "IVDL-2"
+    period: "01/2025 - present"
+    role: "Researcher (non-IP)"
+
+  - program: "Spanish National (Generación de Conocimiento 2023)"
+    acronym: "SOFIA"
+    period: "09/2024 – present"
+    role: "Researcher (non-IP)"
+
+  - program: "Horizon Europe – SNS-JU"
+    acronym: "5G-STARDUST"
+    period: "02/2023 – present"
+    role: "Researcher (non-IP)"
+
+  
+   

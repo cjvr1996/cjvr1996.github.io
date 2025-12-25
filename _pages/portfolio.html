@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+
+<h2>Current Projects</h2>
+
+<ul>
+  {% for project in site.data.projects.current_projects %}
+  <li>
+    <strong>{{ project.acronym }}</strong> ({{ project.program }}), {{ project.period }}.<br />
+    Role: {{ project.role }}.
+  </li>
+  {% endfor %}
+</ul>
+
 <h2>Previous Projects</h2>
 
 <h3>Competitive Research Projects</h3>
@@ -30,9 +42,3 @@ author_profile: true
 </ul>
 
 <hr />
-
-<h2>Selected Projects</h2>
-
-{% for post in site.portfolio %}
-{% include archive-single.html %}
-{% endfor %}

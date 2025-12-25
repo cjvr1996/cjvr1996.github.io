@@ -1,7 +1,7 @@
 ---
 title: "Cloud-Native Multivariate Probabilistic Forecasting for Next-Generation Resource Allocation in O-RAN"
 collection: publications
-category: journals_submitted
+category: journals_published
 permalink: /publication/2025-cloud-native-probabilistic-forecasting-oran
 date: 2025-12-03
 venue: 'Submitted to IEEE Access'

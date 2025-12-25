@@ -16,7 +16,7 @@ author_profile: true
     <strong>{{ project.acronym }}</strong> ({{ project.program }}), {{ project.period }}.<br />
 
     Role:
-    {% if project.role contains "IP" %}
+    {% if project.role contains "(IP)" %}
     <strong>{{ project.role }}</strong>
     {% else %}
     {{ project.role }}

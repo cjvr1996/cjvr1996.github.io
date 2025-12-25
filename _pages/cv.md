@@ -87,7 +87,32 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+<ul>
+  {% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
+</ul>
+
+Bachelor’s Thesis Supervision
+======
+<ul>
+  {% for thesis in site.data.theses.bsc %}
+    <li>
+      <strong>{{ thesis.student }}</strong>, <em>{{ thesis.title }}</em>.
+      Bachelor’s Thesis, <em>{{ thesis.institution }}</em>, {{ thesis.degree }}, {{ thesis.year }}.
+    </li>
+  {% endfor %}
+</ul>
+
+Master’s Thesis Supervision
+======
+<ul>
+  {% for thesis in site.data.theses.msc %}
+    <li>
+      <strong>{{ thesis.student }}</strong>, <em>{{ thesis.title }}</em>.
+      Master’s Thesis, <em>{{ thesis.institution }}</em>, {{ thesis.degree }}, {{ thesis.year }}.
+    </li>
+  {% endfor %}
+</ul>
+
   

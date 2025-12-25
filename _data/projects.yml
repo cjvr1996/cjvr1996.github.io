@@ -1,0 +1,25 @@
+research_projects:
+  - program: "H2020 – MSCA – ITN / ETN"
+    acronym: "WindMill"
+    period: "01/2019 – 12/2022"
+    role: "Researcher (non-IP)"
+    budget_total: "€4M"
+
+  - program: "Horizon Europe – SNS-JU"
+    acronym: "CENTRIC"
+    period: "01/2023 – 06/2025"
+    role: "Researcher (non-IP)"
+    budget_total: "€4.2M"
+
+  - program: "Horizon Europe – SNS-JU"
+    acronym: "VERGE"
+    period: "01/2023 – 06/2025"
+    role: "Researcher (non-IP)"
+    budget_total: "€5M"
+
+industrial_projects:
+  - company: "Indra"
+    acronym: "IVDL"
+    period: "12/2023 – 12/2024"
+    role: "Researcher (non-IP)"
+    budget_cttc: "€178,006.20"

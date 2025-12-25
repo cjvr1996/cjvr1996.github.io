@@ -7,6 +7,31 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Previous Projects</h2>
+
+<h3>Competitive Research Projects</h3>
+<ul>
+  {% for project in site.data.projects.research_projects %}
+  <li>
+    <strong>{{ project.acronym }}</strong> ({{ project.program }}), {{ project.period }}.<br />
+    Role: {{ project.role }}. Total budget: {{ project.budget_total }}.
+  </li>
+  {% endfor %}
+</ul>
+
+<h3>Industrial & Contract Research Projects</h3>
+<ul>
+  {% for project in site.data.projects.industrial_projects %}
+  <li>
+    <strong>{{ project.acronym }}</strong> ({{ project.company }}), {{ project.period }}.<br />
+    Role: {{ project.role }}. Budget to CTTC: {{ project.budget_cttc }}.
+  </li>
+  {% endfor %}
+</ul>
+
+<hr />
+
+<h2>Selected Projects</h2>
 
 {% for post in site.portfolio %}
 {% include archive-single.html %}

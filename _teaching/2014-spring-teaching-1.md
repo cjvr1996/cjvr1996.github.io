@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Intelligent Analytics Applied to the Digital Industry"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master’s Course"
+permalink: /teaching/2025-intelligent-analytics-digital-industry
+venue: "Isabel I University"
+date: 2025-05-01
+location: "Spain (Remote)"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Program:** Official Master’s Degree in Big Data Analytics  
+**Period:** May 2025 – Present  
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course introduces advanced data analytics and artificial intelligence techniques applied to real-world digital industry problems. Students learn to design, implement, and evaluate intelligent data-driven solutions using machine learning, statistical modeling, and big data technologies. The course emphasizes practical case studies from industry, scalable analytics pipelines, and the deployment of AI models in production-oriented digital environments.

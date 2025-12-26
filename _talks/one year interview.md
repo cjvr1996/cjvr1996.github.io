@@ -1,7 +1,7 @@
 ---
 title: "One year interview: ITN WindMill"
 collection: talks
-type: "Talk"
+type: "Interview"
 permalink: /talks/one_year_interview_itn_windmill
 venue: "Aalborg University, Department of Electronic Systems"
 date: 2021-03-01

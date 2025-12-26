@@ -1,7 +1,7 @@
 ---
 title: "First interview: ITN WindMill"
 collection: talks
-type: "Talk"
+type: "Interview"
 permalink: /talks/first_interview_itn_windmill
 venue: "Aalborg University, Department of Electronic Systems"
 date: 2019-11-01
@@ -16,12 +16,11 @@ This interview marked an important milestone in my research career, as it was re
 
 ## Video recording
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe 
-    src="https://www.youtube.com/watch?v=A5ACB7oNzwE"
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/A5ACB7oNzwE"
     title="First interview: ITN WindMill"
     frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>

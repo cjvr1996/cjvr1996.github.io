@@ -10,8 +10,6 @@ location: "Aalborg, Denmark"
 
 This talk corresponds to my **first formal interview** for the *ITN WindMill* Marie Skłodowska-Curie doctoral network, held at **Aalborg University, Department of Electronic Systems**.
 
-During the interview, I presented my academic background, research interests, and motivation to pursue a PhD in **wireless communications**, with a particular focus on millimeter-wave systems and advanced networking concepts. The discussion also covered my previous experience, technical skills, and how my profile aligned with the objectives of the WindMill project.
-
 This interview marked an important milestone in my research career, as it was related to my PhD position at Aalborg University under the ITN WindMill program.
 
 ## Video recording

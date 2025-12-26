@@ -2,54 +2,54 @@ research_projects:
   - program: "H2020 – MSCA – ITN / ETN"
     acronym: "WindMill"
     period: "01/2019 – 12/2022"
-    role: "Researcher (non-IP)"
+    role: "Researcher (non-PI)"
     budget_total: "€4M"
 
   - program: "Horizon Europe – SNS-JU"
     acronym: "CENTRIC"
     period: "01/2023 – 06/2025"
-    role: "Researcher (non-IP)"
+    role: "Researcher (non-PI)"
     budget_total: "€4.2M"
 
   - program: "Horizon Europe – SNS-JU"
     acronym: "VERGE"
     period: "01/2023 – 06/2025"
-    role: "Researcher (non-IP)"
+    role: "Researcher (non-PI)"
     budget_total: "€5M"
 
 industrial_projects:
   - company: "Indra"
     acronym: "IVDL"
     period: "12/2023 – 12/2024"
-    role: "Researcher (non-IP)"
+    role: "Researcher (non-PI)"
     budget_cttc: "€178,006.20"
 
 current_projects:
   - program: "European Space Agency (ESA) contract"
     acronym: "AI-GOVSATCOM"
     period: "01/2025 – present"
-    role: "Researcher (IP)"
+    role: "Researcher (PI)"
     budget_cttc: "€440,000"
 
   - program: "Horizon Europe – SNS-JU"
     acronym: "UNITY-6G"
     period: "01/2025 – present"
-    role: "Researcher (non-IP)"
+    role: "Researcher (non-PI)"
   
   - program: "Indra contract"
     acronym: "IVDL-2"
     period: "01/2025 - present"
-    role: "Researcher (non-IP)"
+    role: "Researcher (non-PI)"
 
   - program: "Spanish National (Generación de Conocimiento 2023)"
     acronym: "SOFIA"
     period: "09/2024 – present"
-    role: "Researcher (non-IP)"
+    role: "Researcher (non-PI)"
 
   - program: "Horizon Europe – SNS-JU"
     acronym: "5G-STARDUST"
     period: "02/2023 – present"
-    role: "Researcher (non-IP)"
+    role: "Researcher (non-PI)"
 
   
    

@@ -19,3 +19,18 @@ In addition to the technical program, a dedicated career counselling session for
 
 <img src="/_data/_photos/1584541350678.jfif" width="45%" />
 <img src="/_data/_photos/1584541350919.jfif" width="45%" />
+
+---
+
+### Video recording
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.youtube.com/embed/4FFQcaG_Oys"
+    title="ITN WindMill Paris Training Event"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>

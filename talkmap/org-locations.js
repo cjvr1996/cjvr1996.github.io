@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Event at ETH Zurich<br />ETHZ; Zurich, Switzerland",
+    47.3744489,
+    8.5410422
+  ],
+  [
     "One year interview: ITN WindMill<br />Aalborg University, Department of Electronic Systems; Aalborg, Denmark",
     57.0462626,
     9.9215263

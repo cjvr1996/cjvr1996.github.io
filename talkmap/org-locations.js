@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "One year interview: ITN WindMill<br />Aalborg University, Department of Electronic Systems; Aalborg, Denmark",
+    57.0462626,
+    9.9215263
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",

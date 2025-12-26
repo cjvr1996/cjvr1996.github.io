@@ -14,7 +14,7 @@ In addition to the technical program, a dedicated **career counselling** session
 
 ### Photo highlights
 
-<img src="/_data/_photos/1584541281054.jfif" width="45%" /> <img src="/_data/_photos/1584541346947.jfif" width="45%" /> <img src="/_data/_photos/1584541350678.jfif" width="45%" /> <img src="/_data/_photos/1584541350919.jfif" width="45%" />
+<img src="/images/_data/_photos/1584541281054.jfif" width="45%" /> <img src="/images/_data/_photos/1584541346947.jfif" width="45%" /> <img src="/images/_data/_photos/1584541350678.jfif" width="45%" /> <img src="/images/_data/_photos/1584541350919.jfif" width="45%" />
 
 ---
 

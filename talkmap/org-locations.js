@@ -5,14 +5,14 @@ var addressPoints = [
     9.9215263
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
     "Event at Nokia Bell Labs France<br />Nokia Bell Labs; Massy, France",
     49.6902106,
     1.399492
+  ],
+  [
+    "Conference presentation at EUSIPCO22<br />European Signal Processing Conference (EUSIPCO); Belgrade, Serbia",
+    44.8153318,
+    20.4456588
   ],
   [
     "First interview: ITN WindMill<br />Aalborg University, Department of Electronic Systems; Aalborg, Denmark",

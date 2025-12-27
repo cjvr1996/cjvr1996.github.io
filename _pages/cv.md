@@ -118,4 +118,4 @@ Master’s Thesis Supervision
 Awards
 ======
 
-<img src="{{ '/images/photos/1685863404054.jfif' | relative_url }}" width="30%" />
+<img src="{{ '/images/photos/1685863404054.jfif' | relative_url }}" width="90%" />

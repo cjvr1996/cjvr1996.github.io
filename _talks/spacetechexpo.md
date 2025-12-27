@@ -12,12 +12,10 @@ I participated as a **panelist** at **Space Tech Expo Europe**, contributing to 
 
 The panel addressed key challenges and emerging trends in AI/ML for space technologies, fostering discussion between industry and research perspectives. The session provided a valuable opportunity for knowledge exchange, networking, and collaborative dialogue on the future of AI/ML in the space ecosystem.
 
-
 ### Photo highlights
 
-<img src="{{ '/images/photos/1758009301146.jfif' | relative_url }}" width="30%" />
-<img src="{{ '/images/photos/1758009301284.jfif' | relative_url }}" width="30%" />
-<img src="{{ '/images/photos/1758020499732.jfif' | relative_url }}" width="30%" />
+<img src="{{ '/images/photos/1760429002008.jfif' | relative_url }}" width="45%" />
+<img src="{{ '/images/photos/1763393755005.jfif' | relative_url }}" width="45%" />
 
 
 

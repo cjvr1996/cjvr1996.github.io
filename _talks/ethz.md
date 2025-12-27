@@ -22,7 +22,7 @@ The ITN WindMill project offered a highly valuable research and training framewo
 <img src="{{ '/images/photos/1662813667792.jfif' | relative_url }}" width="30%" />
 
 <img src="{{ '/images/photos/1662813667929.jfif' | relative_url }}" width="30%" />
-<img src="{{ '/images/photos/1662813667986.jfif' | relative_url }}" width="30%" />
+<img src="{{ '/images/photos/1662813667986.jfif' | relative_url }}" width="30%"/>
 
 
 

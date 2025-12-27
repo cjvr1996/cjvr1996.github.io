@@ -10,6 +10,11 @@ var addressPoints = [
     8.5410422
   ],
   [
+    "Panel at Space Tech Expo Europe<br />Space Tech Expo Europe; Bremen, Germany",
+    53.0758196,
+    8.8071646
+  ],
+  [
     "Talk at Barcelona Supercomputing Center for ELIXIRION ITN<br />Barcelona SuperComputing Center; Barcelona, Spain",
     41.3825802,
     2.177073

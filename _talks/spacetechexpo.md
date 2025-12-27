@@ -8,12 +8,9 @@ date: 2025-11-20
 location: "Bremen, Germany"
 ---
 
-This talk was delivered at the **Barcelona Supercomputing Center (BSC)** within the framework of the **ELIXIRION-MC doctoral network**, together with **Luis Blanco** and **Engin Zeydan**.
+I participated as a **panelist** at **Space Tech Expo Europe**, contributing to a panel discussion alongside more than **150 industry professionals** from across the space and satellite sectors.
 
-The presentation covered key topics including **Open Radio Access Networks (O-RAN)**, the use of **Kolmogorov–Arnold Networks (KANs)** for **Non-Terrestrial Networks (NTN)**, and practical aspects of **data engineering** relevant to modern communication systems. The session aimed to provide doctoral students with both conceptual insights and applied perspectives on emerging technologies.
-
-Beyond the technical content, the event represented a meaningful opportunity to contribute back to the Marie Skłodowska-Curie community. Having previously been a Marie Curie doctoral researcher, participating in this activity from the perspective of a speaker highlighted the value of continuity, mentorship, and knowledge exchange within doctoral networks.
-
+The panel addressed key challenges and emerging trends in AI/ML for space technologies, fostering discussion between industry and research perspectives. The session provided a valuable opportunity for knowledge exchange, networking, and collaborative dialogue on the future of AI/ML in the space ecosystem.
 
 
 ### Photo highlights

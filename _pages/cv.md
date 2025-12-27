@@ -115,4 +115,7 @@ Master’s Thesis Supervision
   {% endfor %}
 </ul>
 
-  
+Awards
+======
+
+<img src="{{ '/images/photos/1685863404054.jfif' | relative_url }}" width="30%" />

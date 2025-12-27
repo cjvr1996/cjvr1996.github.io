@@ -16,8 +16,10 @@ Beyond the technical content, the event represented a meaningful opportunity to 
 
 ### Photo highlights
 
-<img src="{{ '/images/photos/1760429002008.jfif' | relative_url }}" width="45%" />
-<img src="{{ '/images/photos/1763393755005.jfif' | relative_url }}" width="45%" />
+<img src="{{ '/images/photos/1758009301146.jfif' | relative_url }}" width="30%" />
+<img src="{{ '/images/photos/1758009301284.jfif' | relative_url }}" width="30%" />
+<img src="{{ '/images/photos/1758020499732.jfif' | relative_url }}" width="30%" />
+
 
 
 

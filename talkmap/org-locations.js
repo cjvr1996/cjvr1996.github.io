@@ -15,6 +15,11 @@ var addressPoints = [
     1.399492
   ],
   [
+    "PhD Epilogue<br />ETH Zurich; Zurich, Switzerland",
+    47.3744489,
+    8.5410422
+  ],
+  [
     "Conference presentation at EUSIPCO22<br />European Signal Processing Conference (EUSIPCO); Belgrade, Serbia",
     44.8153318,
     20.4456588

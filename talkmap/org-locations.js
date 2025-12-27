@@ -10,6 +10,11 @@ var addressPoints = [
     8.5410422
   ],
   [
+    "Talk at Barcelona Supercomputing Center for ELIXIRION ITN<br />Barcelona SuperComputing Center; Barcelona, Spain",
+    41.3825802,
+    2.177073
+  ],
+  [
     "One year interview: ITN WindMill<br />Aalborg University, Department of Electronic Systems; Aalborg, Denmark",
     57.0462626,
     9.9215263

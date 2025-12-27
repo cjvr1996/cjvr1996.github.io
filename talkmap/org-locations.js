@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Booth presentation at ICMLCN2025<br />International Conference on Machine Learning for Communication and Networking (ICMLCN); Barcelona, Spain",
+    41.3825802,
+    2.177073
+  ],
+  [
     "Event at ETH Zurich<br />ETHZ; Zurich, Switzerland",
     47.3744489,
     8.5410422
